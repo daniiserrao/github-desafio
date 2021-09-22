@@ -1,0 +1,9 @@
+git status - vê o status do repositório.
+
+git clone **link** - clona um repositório do GitHub.
+
+git add .- adiciona todas as mudanças para serem commitadas.
+
+git commit -m "mensagem" - commita as mudanças.
+
+git push - envia as mudanças commitadas para o repositório do GitHub.
